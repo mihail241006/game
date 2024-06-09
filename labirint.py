@@ -138,7 +138,7 @@ while run:
 
     
     display.update()'''
-
+#bnjkuhtmtfckhcfr
 
 from pygame import *
 
